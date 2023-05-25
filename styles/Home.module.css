@@ -46,7 +46,7 @@
     .title {
         margin: 0;
         line-height: 1.15;
-        font-size: 4rem;
+        font-size: 3rem;
         text-decoration: none;
     }
     
@@ -84,13 +84,13 @@
         padding: 0.3rem;
         text-align: center;
         text-decoration: none;
-        border: 5px solid rgb(112, 198, 20);
+        border: 3px solid black;
         border-radius: 20px;
         transition: color 0.15s ease, border-color 0.15s ease;
     }
     
     .button a {
-        color: rgb(112, 198, 20);
+        color: black;
         text-decoration: none;
     }
     
@@ -119,8 +119,8 @@
     .card:hover,
     .card:focus,
     .card:active {
-        color: rgb(112, 198, 20);
-        border-color: rgb(112, 198, 20);
+        color: rgb(103, 20, 198);
+        border-color:rgb(103, 20, 198);
     }
     
     .card h3 {
